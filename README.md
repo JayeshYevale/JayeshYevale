@@ -3,8 +3,7 @@
 I'm an Industrial Engineer working in Operations Research and Supply Chain
 Analytics. I build models that answer where things go, how much to make, and when to move them.
 
-- 🎓 Master's in Industrial Engineering from UIUC and Oklahoma State, specializing
-in Operations Research and Supply Chain
+- 🎓 Master's in Industrial Engineering from UIUC and Oklahoma State
 - 🔬 Research on Distributed Optimization for Federated Learning
 - 🚦 Previously worked on transportation projects with the Illinois Department
 of Transportation
