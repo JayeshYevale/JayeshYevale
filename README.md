@@ -3,25 +3,20 @@
 I'm an Industrial Engineer working in Operations Research and Supply Chain
 Analytics. I build models that answer where things go, how much to make, and when to move them.
 
-🎓 Master's in Industrial Engineering from UIUC and Oklahoma State, specializing
+- 🎓 Master's in Industrial Engineering from UIUC and Oklahoma State, specializing
 in Operations Research and Supply Chain
-
-🔬 Research on Distributed Optimization for Federated Learning
-
-🚦 Previously worked on transportation projects with the Illinois Department
+- 🔬 Research on Distributed Optimization for Federated Learning
+- 🚦 Previously worked on transportation projects with the Illinois Department
 of Transportation
 
 ### 🧩 What I'm Into
 
-⚙️ **Optimization** · Facility Location, Production Planning, Scheduling,
+- ⚙️ **Optimization** · Facility Location, Production Planning, Scheduling,
 Routing
-
-🤖 **Machine Learning and AI** · Federated Learning, Predictive Modeling,
+- 🤖 **Machine Learning and AI** · Federated Learning, Predictive Modeling,
 Learning-Augmented Optimization
-
-📈 **Forecasting and Simulation** · Demand Forecasting, Time Series
-
-🚚 **Supply Chain** · Inventory, Network Flow, Capacity Planning
+- 📈 **Forecasting and Simulation** · Demand Forecasting, Time Series
+- 🚚 **Supply Chain** · Inventory, Network Flow, Capacity Planning
 
 ### 🛠️ Tools
 
